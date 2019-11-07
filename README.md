@@ -1,2 +1,0 @@
-# COMPUTER-project
-internship project
